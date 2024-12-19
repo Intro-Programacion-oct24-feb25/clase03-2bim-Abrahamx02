@@ -32,7 +32,9 @@ public class Ejemplo11 {
         4    6
         30   52
         */
-        
+        /* en este codigo utilizo 3 arreglos de los cuales 2 voy a utilizar para sumarlos en conjunto segun sus coordenadas
+        en cada uno de los arreglos, y el tercero lo utilizo para rescatar dicha suma de valores 
+        */
         int valor1;
         int valor2;
         
